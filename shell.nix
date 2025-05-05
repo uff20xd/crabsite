@@ -5,4 +5,7 @@ pkgs.mkShell {
     nodejs
     htmlhint
   ];
+  shellHook = ''
+    nvim index.html my_opinions/music/index.html my_opinions/tv_things/index.html
+  '';
 }
