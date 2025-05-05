@@ -1,13 +1,14 @@
-**name_of_album - Artist**
+name_of_album - Artist
 My semi biased review :)
 
-# Song by Song
+Song by Song
 
-## 1 name_of_song (type_of_track)
-### Thoughts
+1 name_of_song (type_of_track)
+---
+# Thoughts
 Review here
 
-### Rating
+# Rating
 Sound: 
 Feel:
 Lyrics: 
@@ -16,12 +17,14 @@ Catchyness:
 Chorus:
 Verses:
 Overall:
+---
 
-## 2 name_of_song (type_of_track)
-### Thoughts
+2 name_of_song (type_of_track)
+---
+# Thoughts
 Review here
 
-### Rating
+# Rating
 Sound: 
 Feel:
 Lyrics: 
@@ -30,13 +33,14 @@ Catchyness:
 Chorus:
 Verses:
 Overall:
+---
 
-# Conclusion
+Conclusion:
 Conclusion here
 
-## Favourite Tracks
+Favourite Tracks:
 - song_name
 - other_song_name
 
-## Songs I mentioned
+Songs I mentioned:
 
