@@ -1,0 +1,42 @@
+**name_of_album - Artist**
+My semi biased review :)
+
+# Song by Song
+
+## 1 name_of_song (type_of_track)
+### Thoughts
+Review here
+
+### Rating
+Sound: 
+Feel:
+Lyrics: 
+Vocals:
+Catchyness:
+Chorus:
+Verses:
+Overall:
+
+## 2 name_of_song (type_of_track)
+### Thoughts
+Review here
+
+### Rating
+Sound: 
+Feel:
+Lyrics: 
+Vocals:
+Catchyness:
+Chorus:
+Verses:
+Overall:
+
+# Conclusion
+Conclusion here
+
+## Favourite Tracks
+- song_name
+- other_song_name
+
+## Songs I mentioned
+
