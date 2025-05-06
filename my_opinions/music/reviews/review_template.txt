@@ -3,7 +3,7 @@ My semi biased review :)
 
 Song by Song
 
-1 name_of_song (type_of_track)
+1. name_of_song (type_of_track)
 ---
 # Thoughts
 Review here
@@ -19,7 +19,7 @@ Verses:
 Overall:
 ---
 
-2 name_of_song (type_of_track)
+2. name_of_song (type_of_track)
 ---
 # Thoughts
 Review here
