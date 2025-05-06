@@ -1,7 +1,11 @@
 body {
-  background-color: LightBlue;
+  background: url("/crabsite/mountain.jpg");
 }
 
 h1 {
   color: SlateBlue;
+}
+
+p {
+  color: White;
 }
