@@ -6,6 +6,6 @@ pkgs.mkShell {
     htmlhint
   ];
   shellHook = ''
-    nvim index.html my_opinions/music/index.html my_opinions/tv_things/index.html
+    nvim index.html my_opinions/music/index.html my_opinions/tv_things/index.html homepage.css
   '';
 }
