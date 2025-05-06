@@ -7,5 +7,8 @@ pkgs.mkShell {
   ];
   shellHook = ''
     nvim index.html my_opinions/music/index.html my_opinions/tv_things/index.html homepage.css
+    alias gc="git commit"
+    alias gp="git push"
+    alias ga="git add"
   '';
 }
